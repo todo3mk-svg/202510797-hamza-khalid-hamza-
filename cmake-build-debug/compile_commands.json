@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/CNS Technologies/CLionProjects/untitled5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles\\untitled5.dir\\main.cpp.obj -c \"C:\\Users\\CNS Technologies\\CLionProjects\\untitled5\\main.cpp\"",
+  "file": "C:/Users/CNS Technologies/CLionProjects/untitled5/main.cpp",
+  "output": "C:/Users/CNS Technologies/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/main.cpp.obj"
+}
+]
